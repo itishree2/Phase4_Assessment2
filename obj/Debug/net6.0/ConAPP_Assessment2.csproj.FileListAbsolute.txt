@@ -1,0 +1,14 @@
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\bin\Debug\net6.0\ConAPP_Assessment2.exe
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\bin\Debug\net6.0\ConAPP_Assessment2.deps.json
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\bin\Debug\net6.0\ConAPP_Assessment2.runtimeconfig.json
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\bin\Debug\net6.0\ConAPP_Assessment2.dll
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\bin\Debug\net6.0\ConAPP_Assessment2.pdb
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.AssemblyInfoInputs.cache
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.AssemblyInfo.cs
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.csproj.CoreCompileInputs.cache
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.dll
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\refint\ConAPP_Assessment2.dll
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.pdb
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ConAPP_Assessment2.genruntimeconfig.cache
+D:\C#\Testing\feb15\ConAPP_Assessment2\ConAPP_Assessment2\obj\Debug\net6.0\ref\ConAPP_Assessment2.dll
